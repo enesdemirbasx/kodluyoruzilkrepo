@@ -1,3 +1,4 @@
+[Patika.dev Profilim](https://app.patika.dev/enesdemirbasx)
 # **Kodluyoruz İlk Repo**
 Bu repo [Kodluyoruz](www.kodluyoruz.com) Front-End Eğitimdinde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası bir adet index.html barındırıyor.
 
