@@ -17,7 +17,7 @@ cd kodluyoruzilkrepo
 code. 
 ```
 ## **Contributing**
-Pull Requestler kabul edilir. Büyük Değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Pull Requestler kabul edilir. Büyük Değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.  
 
 ## **Licanse**
 [MIT](https://www.mit.gov.tr)
