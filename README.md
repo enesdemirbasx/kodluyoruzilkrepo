@@ -21,4 +21,4 @@ code.
 Pull Requestler kabul edilir. Büyük Değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.  
 
 ## **Licanse**
-[MIT](https://www.mit.gov.tr)
+[MIT](https://www.mit.gov.tr) 
